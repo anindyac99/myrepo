@@ -1,3 +1,2 @@
 My First Git File Line
-My second line
 I am adding a new line
